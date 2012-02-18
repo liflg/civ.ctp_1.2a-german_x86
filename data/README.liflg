@@ -1,0 +1,36 @@
+
+			Civilization: Call to Power: German version 1.2a
+			   (http://www.lokigames.com/products/civctp/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Loki version of Civilization: CtP.
+	It contains the most recent patch and some workarounds to get
+	this game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Civilization: Call to Power disc (German version)
+
+RUNNING THE GAME
+============
+
+	Run "civctp.sh" to play or "makespr.sh" to start the "Sprite Tool".
+	
+NOTES
+====
+
+	- For help with the "Sprite Tool" have a look at the included
+	  README.html
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
